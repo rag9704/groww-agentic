@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "groww-trading": {
+      "type": "stdio",
+      "command": "/Users/anuluup/groww-agentic/.venv/bin/python",
+      "args": ["/Users/anuluup/groww-agentic/mcp/server.py"]
+    }
+  }
+}
